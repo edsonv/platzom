@@ -13,7 +13,7 @@ Platzom es un idioma inventado para el [Curso de Fundamentos de JavaScript](http
 
 ```
 npm install platzom
-´´´
+```
 
 ## Uso
 ```
@@ -24,7 +24,7 @@ platzom("Zorro") // Zorrope
 platzom("Zarpar") // Zarppe
 platzom("Abecedario") // Abece-dario
 platzom("sometemos") // SoMeTeMoS
-´´´
+```
 ## Créditos
 - [Edson J Vargas](https://edsonvargas.com.ve)
 
