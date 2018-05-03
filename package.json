@@ -1,0 +1,33 @@
+{
+  "name": "platzom",
+  "version": "0.1.0",
+  "description": "traductor del idioma platzom",
+  "main": "dist/src/platzom.js",
+  "scripts": {
+    "build": "babel src/platzom.js -d dist",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edsonv/platzom.git"
+  },
+  "keywords": [
+    "platzom",
+    "platzi",
+    "fundamentos",
+    "javascript",
+    "js"
+  ],
+  "author": "Edson J Vargas <edson.jhair@yahoo.com> (www.edsonvargas.com.ve)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edsonv/platzom/issues"
+  },
+  "homepage": "https://github.com/edsonv/platzom#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1"
+  }
+}
